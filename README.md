@@ -13,4 +13,4 @@ I have added 2  versions of app.js where one is created with older JS and anothe
 - Implementation of local storage
 - Use of ES6 classes
 
-Check out the live site [here](https://poke-app-vanilla-js.netlify.app/) 
+Check out the live site [here](https://book-store-2020.netlify.app/) 
